@@ -1,0 +1,5 @@
+C:\Users\sunqu\PycharmProjects\C-Plusfrom-beginner-to-beyond\Section6\SizeofOperator\main.cpp
+C:\Users\sunqu\PycharmProjects\C-Plusfrom-beginner-to-beyond\Section6\PrimitiveTypes\main.cpp
+C:\Users\sunqu\PycharmProjects\C-Plusfrom-beginner-to-beyond\Section6\Constants\main.cpp
+C:\Users\sunqu\PycharmProjects\C-Plusfrom-beginner-to-beyond\Section6\GlobalVariables\main.cpp
+C:\Users\sunqu\PycharmProjects\C-Plusfrom-beginner-to-beyond\Section6\InitializingVariables\main.cpp
