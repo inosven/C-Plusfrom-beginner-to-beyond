@@ -1,0 +1,3 @@
+C:/Users/sunqu/PycharmProjects/C-Plusfrom-beginner-to-beyond/Section7/Challenge/cmake-build-debug/CMakeFiles/Challenge.dir
+C:/Users/sunqu/PycharmProjects/C-Plusfrom-beginner-to-beyond/Section7/Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sunqu/PycharmProjects/C-Plusfrom-beginner-to-beyond/Section7/Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
